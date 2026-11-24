@@ -1,0 +1,82 @@
+{
+  "coordinateSystem": "Three.js Y up, camera looks toward negative Z",
+  "fov": 45,
+  "heroWaypoints": [
+    {
+      "progress": 0,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "target": [
+        0,
+        0,
+        -8
+      ]
+    },
+    {
+      "progress": 0.55,
+      "position": [
+        0.16,
+        -0.03,
+        -0.25
+      ],
+      "target": [
+        0.25,
+        -0.03,
+        -8
+      ]
+    },
+    {
+      "progress": 1,
+      "position": [
+        0.35,
+        -0.04,
+        -0.55
+      ],
+      "target": [
+        0.55,
+        -0.04,
+        -8
+      ]
+    }
+  ],
+  "shots": [
+    {
+      "file": "shot-01.webp",
+      "progress": 0,
+      "motion": "wide"
+    },
+    {
+      "file": "shot-02.webp",
+      "progress": 0.18,
+      "motion": "dolly"
+    },
+    {
+      "file": "shot-03.webp",
+      "progress": 0.34,
+      "motion": "interaction"
+    },
+    {
+      "file": "shot-04.webp",
+      "progress": 0.5,
+      "motion": "close-up"
+    },
+    {
+      "file": "shot-05.webp",
+      "progress": 0.7,
+      "motion": "pan-right"
+    },
+    {
+      "file": "shot-06.webp",
+      "progress": 0.87,
+      "motion": "approach"
+    },
+    {
+      "file": "shot-07.webp",
+      "progress": 1,
+      "motion": "doorway"
+    }
+  ]
+}
